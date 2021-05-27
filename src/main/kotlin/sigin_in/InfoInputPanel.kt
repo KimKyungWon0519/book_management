@@ -13,7 +13,7 @@ import androidx.compose.ui.text.input.TextFieldValue
 import androidx.compose.ui.unit.dp
 
 @Composable
-fun InfoInput(
+fun InfoInputPanel(
     idTextFieldState : TextFieldStateStruct,
     pwTextFieldState : TextFieldStateStruct,
 ) {
